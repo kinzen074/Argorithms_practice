@@ -20,4 +20,3 @@ if __name__ == '__main__':
     list1 = [5, 2, 3, 1, 4]
     insert_sort(list1)
     bb_sort(list1)
-    print("test")
